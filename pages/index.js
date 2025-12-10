@@ -55,7 +55,7 @@ export default function Home() {
           <div className="relative">
             <div className="relative h-[28rem] rounded-[2.5rem] overflow-hidden border border-white/10">
               <Image
-                src="https://cdn.pixabay.com/photo/2013/06/18/14/23/excavators-139976_1280.jpg"
+                src="/images/HeroStats.jpg"
                 alt="Excavators breaking down a house"
                 fill
                 className="object-cover"
