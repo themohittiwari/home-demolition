@@ -3,7 +3,7 @@ export const companyInfo = {
   tagline: "Precision demolition for residential and commercial sites.",
   phoneDisplay: "8827378868",
   phoneNumber: "+918827378868",
-  email: "ghartodo@gmail.com",
+  email:"ghartodo@gmail.com",
   address: "Bhopal,Madhya Pradesh",
   hours: "Mon - Sat · 6:00 AM - 8:00 PM",
   license: "Bonded · Licensed · Insured",
