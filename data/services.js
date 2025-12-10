@@ -10,7 +10,7 @@ export const services = [
       "Environmental compliance reporting",
     ],
     image:
-      "https://cdn.pixabay.com/photo/2017/03/20/15/13/site-2159352_1280.jpg",
+      "/images/projects/FullStructure.jpg",
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ export const services = [
       "Night and weekend availability",
     ],
     image:
-      "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=800",
+      "/images/projects/Interior-demo.webp",
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ export const services = [
       "Haul-off & recycling manifest",
     ],
     image:
-      "https://cdn.pixabay.com/photo/2018/09/19/11/21/site-3688266_1280.jpg",
+      "/images/projects/SiteClearing.jpg",
   },
 ];
 
