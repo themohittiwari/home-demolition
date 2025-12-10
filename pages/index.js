@@ -16,7 +16,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>{companyInfo.name} | Demolition & Site Services</title>
+        <title>{`${companyInfo.name} | Demolition & Site Services`}</title>
         <meta
           name="description"
           content="Full-service residential and commercial demolition across Texas with rapid response and white-glove project management."

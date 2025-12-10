@@ -8,7 +8,7 @@ export default function OurWorkPage() {
   return (
     <>
       <Head>
-        <title>Our Work | {companyInfo.name}</title>
+        <title>{`Our Work | ${companyInfo.name}`}</title>
         <meta
           name="description"
           content="Proof of performance from residential demos to large-scale industrial decommissions across Texas."

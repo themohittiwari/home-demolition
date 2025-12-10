@@ -8,7 +8,7 @@ export default function ContactPage() {
   return (
     <>
       <Head>
-        <title>Contact {companyInfo.name}</title>
+        <title>{`Contact ${companyInfo.name}`}</title>
         <meta
           name="description"
           content="Request demolition pricing, schedule site walks, or talk through urgent tear-outs with Ghar Todo."
