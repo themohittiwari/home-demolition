@@ -19,23 +19,27 @@ export default function Home() {
         <title>{`${companyInfo.name} | Demolition & Site Services`}</title>
         <meta
           name="description"
-          content="Full-service residential and commercial demolition across Texas with rapid response and white-glove project management."
+          content="Ghar Todo provides professional demolition and building removal services in Bhopal. Fast, safe & affordable demolition."
         />
+        <meta name="keywords" content="Ghar Todo, GharTodo, Ghar Todo Bhopal, Demolition in Bhopal, demolition services in Bhopal, site demolition" />
+        <meta property="og:title" content="Ghar Todo | Demolition Services in Bhopal" />
+        <meta property="og:description" content="Ghar Todo provides professional Demolition and building removal services in Bhopal. Fast, safe & affordable demolition." />
+        <meta property="og:url" content="https://ghartodo.com" />
       </Head>
 
       <div className="relative overflow-hidden bg-gradient-to-b from-slate-950 to-slate-900">
         <div className="section-container grid gap-12 lg:grid-cols-[1.1fr_0.9fr] items-center">
           <div>
             <p className="text-brand-sand uppercase text-sm tracking-[0.3em]">
-              Demolition & Site Prep
+              Demolition & Site Services
             </p>
             <h1 className="text-4xl md:text-6xl font-semibold leading-tight mt-6">
-              Safe, clean demolition crews that pick up on the first ring.
+              Ghar Todo – Trusted Demolition & Site Services in Bhopal
             </h1>
             <p className="text-lg text-white/70 mt-6 max-w-2xl">
-              We mobilize licensed demo specialists, engineers, and hauling
-              partners in under 24 hours so your project never waits for site
-              prep. Transparent budgets, daily reporting, and zero surprises.
+              Ghar Todo offers professional house demolition services in Bhopal.
+              If you are looking for ghar todo in Bhopal or safe building demolition,
+              we provide fast, legal, and affordable solutions.
             </p>
 
             <div className="mt-8 flex flex-wrap gap-4">

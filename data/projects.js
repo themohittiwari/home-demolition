@@ -8,7 +8,7 @@ export const projectCategories = [
 export const projects = [
   {
     id: "proj-1",
-    title: "Deep Ellum Loft Conversion",
+    title: "Residence Transformation",
     location: "New Market,Bhopal",
     category: "commercial",
     description:
@@ -21,7 +21,7 @@ export const projects = [
   },
   {
     id: "proj-2",
-    title: "Historic Farmhouse Removal",
+    title: "Farmhouse Removal",
     location: "Shahpura,Bhopal",
     category: "residential",
     description:
@@ -46,7 +46,7 @@ export const projects = [
   },
   {
     id: "proj-4",
-    title: "Riverside Retail Clearance",
+    title: "Space Clearance",
     location: "Austin, TX",
     category: "commercial",
     description:
@@ -59,7 +59,7 @@ export const projects = [
   },
   {
     id: "proj-5",
-    title: "Hill Country Cabin Clear-out",
+    title: "Hill Area Clear-out",
     location: "Dripping Springs, TX",
     category: "residential",
     description:

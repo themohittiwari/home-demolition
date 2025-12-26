@@ -11,7 +11,7 @@ export default function OurWorkPage() {
         <title>{`Our Work | ${companyInfo.name}`}</title>
         <meta
           name="description"
-          content="Proof of performance from residential demos to large-scale industrial decommissions across Texas."
+          content="Proof of performance from residential demos to large-scale industrial decommissions across India."
         />
       </Head>
 
