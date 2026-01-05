@@ -47,7 +47,7 @@ export const projects = [
   {
     id: "proj-4",
     title: "Space Clearance",
-    location: "Austin, TX",
+    location: "Bawadiyan Kalan,Bhopal",
     category: "commercial",
     description:
       "Demolished flood-damaged strip center, mitigated hazards, and prepped pad for redevelopment.",
@@ -60,7 +60,7 @@ export const projects = [
   {
     id: "proj-5",
     title: "Hill Area Clear-out",
-    location: "Dripping Springs, TX",
+    location: "Arera Hills,Bhopal",
     category: "residential",
     description:
       "Hand-demolished and hauled away cabins on tight access terrain to preserve heritage oaks.",
