@@ -9,7 +9,7 @@ export const companyInfo = {
   license: "Bonded · Licensed · Insured",
   serviceAreas: ["New Market","Koh-e-Fiza","Ayodha Bypass"],
   heroStats: [
-    { label: "Structures Cleared", value: "1,200+" },
+    { label: "Structures Cleared", value: "100+" },
     { label: "Avg. Response Time", value: "15 min" },
     { label: "Client Satisfaction", value: "4.9 / 5" },
   ],
