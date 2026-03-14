@@ -1,5 +1,6 @@
 import Header from "./Header";
 import Footer from "./Footer";
+import Script from 'next/script';
 
 export default function Layout({ children }) {
   return (
@@ -7,6 +8,15 @@ export default function Layout({ children }) {
       <Header />
       <main className="flex-1">{children}</main>
       <Footer />
+      <Script src="https://www.googletagmanager.com/gtag/js?id=AW-18012718476"/>
+       <Script id="google-ads-global-site-tag" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'AW-18012718476');
+        `}
+      </Script>
     </div>
   );
 }
